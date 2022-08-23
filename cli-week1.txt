@@ -1,0 +1,8 @@
+q/how How do I create a hidden file or folder? How do I display it in the CLI? 
+A//attrib +h and dir name 
+q/How do I create multiple nested directories
+ A//mkdir dirName\dirName\dirName  
+q/How do I append a message to a file 
+A//echo then content 
+first message 
+second message 
